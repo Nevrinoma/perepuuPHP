@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tooted>
+  <toode>
+    <nimetus>Coca</nimetus>
+    <kirjeldus>COCACOLACOMPANY</kirjeldus>
+    <hind>2</hind>
+    <lisa>
+      <nimetus>Cosa-Cola</nimetus>
+    </lisa>
+  </toode>
+</tooted>
